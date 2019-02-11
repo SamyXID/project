@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://biji-bijian.com"
+baseurl = "https://samyxid.github.io/"
 languageCode = "en-us"
 title = "Samy Mawon"
 theme = "hugo-freelancer-theme"
@@ -118,3 +118,24 @@ theme = "hugo-freelancer-theme"
         [params.footer.credits]
             title = "About Freelancer"
             text = "shdgfayfyuwbefhusyfuyewbfgauyfdwhbfywegfybahdfawetgfsagdf"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
