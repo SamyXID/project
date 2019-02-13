@@ -1,4 +1,4 @@
-baseURL = "samyxid.github.io/"
+baseURL = "https://samyxid.github.io/"
 languageCode = "en-us"
 title = "Samy Mawon"
 theme = "hugo-lithium-theme"
@@ -80,4 +80,4 @@ pygmentsCodeFences = "true"
     name = "Welcome"
     pre = "welcome"
     weight = 50
-    url = "http://localhost:1313/posts/"
+    url = "https://samyxid.github.io/posts/"
